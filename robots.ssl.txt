@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: /autogen-2024-08-17-194520/
+Sitemap: https://itwerks.b12sites.com/sitemap.xml
